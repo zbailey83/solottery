@@ -1,0 +1,8 @@
+[features]
+seeds = true # If not already present
+
+[programs.localnet] 
+bonk_lottery = "fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"  # Replace with the ID from your Anchor project
+
+[programs.devnet]
+# ... (If you have a devnet configuration)
