@@ -1,0 +1,7 @@
+{
+     "name": "Lottery Ticket #123",  // Customize 
+     "symbol": "LTKT", // Customize
+     "description": "A chance to win big in the BONK Lottery!", 
+     "image": "https://path/to/your/ticket/image.png" // Link to Image 
+     // ... other attributes you desire
+}
